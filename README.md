@@ -1,2 +1,2 @@
-# 02_vars
+# 02_work
 Assignment 2
